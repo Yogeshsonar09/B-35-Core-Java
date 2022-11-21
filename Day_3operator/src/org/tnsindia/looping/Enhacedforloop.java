@@ -1,4 +1,4 @@
-package org.tns.looping;
+package org.tnsindia.looping;
 
 public class Enhacedforloop {
 

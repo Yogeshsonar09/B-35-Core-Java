@@ -1,4 +1,4 @@
-package org.tns.decisionmaking;
+package org.tnsindia.decisionmaking;
 
 import java.util.Scanner;
 
