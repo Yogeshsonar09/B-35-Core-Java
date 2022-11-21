@@ -4,7 +4,7 @@ public class Bytedatatypedemo {
 
 	public static void main(String[] args) {
 				byte xy=125;
-				System.out.println("the value is:"+xy);
+				//System.out.println("the value is:"+xy);
 				int xyz=128;
 				//int _abc=2147483648;is not valid as it is out of range of int data-type
 				long _abc=2147483648L;
@@ -24,7 +24,7 @@ public class Bytedatatypedemo {
 				System.out.println("The value is: "+var);
 				System.out.println("The value is: "+x);
 				System.out.println("The  value is"+ y);
-	
+				System.out.println("the value is:"+xy);
 	}
 
 }
