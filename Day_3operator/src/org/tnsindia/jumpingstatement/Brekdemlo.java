@@ -1,4 +1,4 @@
-package org.tns.jumpingstatement;
+package org.tnsindia.jumpingstatement;
 
 public class Brekdemlo {
 
